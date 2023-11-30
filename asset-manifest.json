@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-frontend-dev-portfolio/static/css/main.5713d771.chunk.css",
-    "main.js": "/react-frontend-dev-portfolio/static/js/main.81b3d836.chunk.js",
-    "main.js.map": "/react-frontend-dev-portfolio/static/js/main.81b3d836.chunk.js.map",
-    "runtime-main.js": "/react-frontend-dev-portfolio/static/js/runtime-main.0af024f6.js",
-    "runtime-main.js.map": "/react-frontend-dev-portfolio/static/js/runtime-main.0af024f6.js.map",
-    "static/css/2.d64471e2.chunk.css": "/react-frontend-dev-portfolio/static/css/2.d64471e2.chunk.css",
-    "static/js/2.7f08dfb5.chunk.js": "/react-frontend-dev-portfolio/static/js/2.7f08dfb5.chunk.js",
-    "static/js/2.7f08dfb5.chunk.js.map": "/react-frontend-dev-portfolio/static/js/2.7f08dfb5.chunk.js.map",
-    "index.html": "/react-frontend-dev-portfolio/index.html",
-    "precache-manifest.a13a75b187e90c3dd8a65bda7b5eddfc.js": "/react-frontend-dev-portfolio/precache-manifest.a13a75b187e90c3dd8a65bda7b5eddfc.js",
-    "service-worker.js": "/react-frontend-dev-portfolio/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/react-frontend-dev-portfolio/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.5713d771.chunk.css.map": "/react-frontend-dev-portfolio/static/css/main.5713d771.chunk.css.map",
-    "static/js/2.7f08dfb5.chunk.js.LICENSE.txt": "/react-frontend-dev-portfolio/static/js/2.7f08dfb5.chunk.js.LICENSE.txt"
+    "main.css": "/AaronSanders-Portfolio/static/css/main.5713d771.chunk.css",
+    "main.js": "/AaronSanders-Portfolio/static/js/main.f3f083db.chunk.js",
+    "main.js.map": "/AaronSanders-Portfolio/static/js/main.f3f083db.chunk.js.map",
+    "runtime-main.js": "/AaronSanders-Portfolio/static/js/runtime-main.8d3f7943.js",
+    "runtime-main.js.map": "/AaronSanders-Portfolio/static/js/runtime-main.8d3f7943.js.map",
+    "static/css/2.d64471e2.chunk.css": "/AaronSanders-Portfolio/static/css/2.d64471e2.chunk.css",
+    "static/js/2.bd65b448.chunk.js": "/AaronSanders-Portfolio/static/js/2.bd65b448.chunk.js",
+    "static/js/2.bd65b448.chunk.js.map": "/AaronSanders-Portfolio/static/js/2.bd65b448.chunk.js.map",
+    "index.html": "/AaronSanders-Portfolio/index.html",
+    "precache-manifest.77b18b5ae51b41e2f70d752ac20b14f1.js": "/AaronSanders-Portfolio/precache-manifest.77b18b5ae51b41e2f70d752ac20b14f1.js",
+    "service-worker.js": "/AaronSanders-Portfolio/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/AaronSanders-Portfolio/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.5713d771.chunk.css.map": "/AaronSanders-Portfolio/static/css/main.5713d771.chunk.css.map",
+    "static/js/2.bd65b448.chunk.js.LICENSE.txt": "/AaronSanders-Portfolio/static/js/2.bd65b448.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0af024f6.js",
+    "static/js/runtime-main.8d3f7943.js",
     "static/css/2.d64471e2.chunk.css",
-    "static/js/2.7f08dfb5.chunk.js",
+    "static/js/2.bd65b448.chunk.js",
     "static/css/main.5713d771.chunk.css",
-    "static/js/main.81b3d836.chunk.js"
+    "static/js/main.f3f083db.chunk.js"
   ]
 }
